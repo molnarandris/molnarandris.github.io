@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-title: András Molnár's homepage
+title: András Molnár
+description: My personal homepage
 exclude: ["README.md"]
